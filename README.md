@@ -29,6 +29,9 @@ This is a [hyperlink](https://www.bilibili.com/video/av75225128?p=1)
 请你执行这个命令：`scoop *install* git`
 
 
+This is an other [hyperlink2](MORE.MD)
+
+OK ,END!
 
 
 
